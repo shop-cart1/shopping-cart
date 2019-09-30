@@ -6,3 +6,5 @@ this is the header
 </head>
 <artifactid>this is the artifact</artifact>
 this comment added for test from remote
+<tail>this is the tail from local</tail>
+
